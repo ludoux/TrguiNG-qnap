@@ -1,7 +1,9 @@
 # TrguiNG-qnap
-qpkg app of TrguiNG, works for TransmissionBT4 (not 3)
+qpkg app of TrguiNG and TrguiNG-zh, works for TransmissionBT4 (not 3)
 
-为 QNAP 平台创建的 TrguiNG 软件包，仅适用于 TransmissionBT4 (而不是 3)
+为 QNAP 平台创建的 TrguiNG 和 TrguiNG-zh 软件包，仅适用于 TransmissionBT4 (而不是 3)
+
+[openscopeproject/TrguiNG](https://github.com/openscopeproject/TrguiNG) and [jayzcoder/TrguiNG](https://github.com/jayzcoder/TrguiNG)
 
 ### TL;DR
 1. Install [TransmissionBT 4](https://www.myqnap.org/product/transmissionbt-4) made by QoolBox first. I will not get a penny from your installation.
